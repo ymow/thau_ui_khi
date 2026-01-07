@@ -1,0 +1,17 @@
+# LiveKit
+livekit-agents>=0.8.0
+livekit>=0.11.0
+
+# APIs
+deepgram-sdk>=3.0.0
+groq>=0.4.0
+
+# Utilities
+python-dotenv>=1.0.0
+aiohttp>=3.9.0
+
+# Development
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+black>=23.0.0
+ruff>=0.1.0
