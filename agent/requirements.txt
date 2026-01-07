@@ -1,6 +1,6 @@
-# LiveKit
 livekit-agents>=0.8.0
 livekit>=0.11.0
+livekit-api>=0.6.0
 
 # APIs
 deepgram-sdk>=3.0.0
